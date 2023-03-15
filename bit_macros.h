@@ -11,8 +11,6 @@
 #ifndef BIT_MACROS_H
 #define BIT_MACROS_H
 
-#include <stdint.h>
-
 /**
  * @brief Macro that sets a bit in the given number
  * @param type: The type of the variable (I.E. 1UL)
